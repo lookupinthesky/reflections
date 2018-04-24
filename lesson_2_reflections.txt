@@ -1,0 +1,3 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+By making sure to commit after each add and add one file at a time. 
