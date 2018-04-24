@@ -5,3 +5,7 @@ By making sure to commit after each add and add one file at a time.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 help create different versions and allow experimentation. 
+
+How do the diagrams help you visualize the branch structure?
+
+because a picture is worth thousand words?
